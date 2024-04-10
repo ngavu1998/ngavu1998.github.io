@@ -1,4 +1,4 @@
-/* ===( CODE AASHU )=== */ 
+/* ===( CODE AASHU )=== */  
 function loco(){
     gsap.registerPlugin(ScrollTrigger);
 
